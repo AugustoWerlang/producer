@@ -9,7 +9,7 @@ async function bootstrap() {
     sasl: {
       mechanism: 'scram-sha-256',
       username: 'bWF4aW11bS1qYWNrYXNzLTEyOTYxJEEANgvfEcL59U6BD6nSWKEevGiH_5rujW4',
-      password: 'SG0_Yuo27nJ_Wkf5gUKQIBIseGphB4fzA-Gvmqg2boWWmGA9isjeQE-CsMTFjBdHPYfSGg==',
+      password: '*****',
     },
     ssl: true,
   });
